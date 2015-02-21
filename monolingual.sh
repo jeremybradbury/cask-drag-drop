@@ -1,0 +1,1 @@
+brew cask install monolingual
